@@ -12,6 +12,13 @@
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <PackageId>PiiDetector</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Brandon Edwards</Authors>
+    <Description>A .NET library for detecting Personally Identifiable Information (PII).</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/TALMID-EDWARDS-TECHNOLOGISTS-LLC/PiiDetector</RepositoryUrl>
+    <PackageTags>pii, privacy, security, dotnet</PackageTags>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
