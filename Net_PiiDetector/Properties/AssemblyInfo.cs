@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Net_PiiDetector")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("PiiDetector")]
+[assembly: AssemblyDescription("A .NET library for detecting Personally Identifiable Information (PII).")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Net_PiiDetector")]
+[assembly: AssemblyCompany("Talmid Edwards Technologists LLC")]
+[assembly: AssemblyProduct("PiiDetector")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
